@@ -1,0 +1,8 @@
+enrollment_id,student_id,course_id,grade
+1,1,101,A
+2,1,102,B+
+3,2,101,B
+4,3,103,A-
+5,4,104,B
+6,5,105,A
+7,3,102,B+
